@@ -18,3 +18,7 @@ Get to know the team behind Grappling with Graphs! We’re a group of passionate
 - **Level Up Problem-Solving**: Learn how to tackle real-world challenges using graph theory.
 - **Unleash Your Inner Nerd**: Explore the beauty and power of connections in our world.
 
+### Preview
+
+https://github.com/user-attachments/assets/507896a1-bc5e-41fe-8524-f6965dd7e6e4
+
